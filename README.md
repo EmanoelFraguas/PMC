@@ -1,3 +1,4 @@
+***
 # Pokémon Mind Choices
 
 &lt;-- Links Úteis 
@@ -14,4 +15,4 @@
 	- [SoloLearn - Curso Python](https://www.sololearn.com/Course/Python/)
 	- [DataCamp - Curso Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Como usar PyGame - Vídeo](https://www.youtube.com/watch?time_continue=8&v=UClP9qn3JT8)
----
+___
